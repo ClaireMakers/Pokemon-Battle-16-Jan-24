@@ -1,0 +1,11 @@
+{
+  "name": "tdd-debugging-january-sd-cohort",
+  "version": "1.0.0",
+  "description": "tdd workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
